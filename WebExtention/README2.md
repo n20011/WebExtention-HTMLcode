@@ -2,7 +2,7 @@
 
 
 ###　課題
-1. Chapter01「[Windows環境でHTMLを作ってみよう](chapter01/ch01-firsthtml-win.html)」  
+1. Chapter01「[Windows環境でHTMLを作ってみよう](chapter01/ch1-firsthtml-win.html)」  
 
 2. Chapter02「[Linux環境でHTMLを作ってみよう](chapter02/ch02-firsthtml-linux.html)」  
 
